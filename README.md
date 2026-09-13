@@ -1,16 +1,42 @@
-## Hi there 👋
+👋 Hi, I'm Talha Mehmood
 
-<!--
-**talha77799/talha77799** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer | Product Builder
 
-Here are some ideas to get you started:
+I build modern web applications and digital products,
+with a focus on clean UI, scalable backend systems,
+and real-world solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently building WakeelHub ⚖️
+
+
+## ⚖️ WakeelHub
+
+Legal-tech platform designed to connect clients,
+lawyers and legal services in one digital ecosystem.
+
+React • TypeScript • Node.js • Express • MongoDB
+
+
+## 🛠 Tech Stack
+
+Frontend    React • TypeScript • JavaScript
+Backend     Node.js • Express.js • REST APIs
+Database    MongoDB • MySQL
+Tools       Git • GitHub • VS Code
+
+
+## 🚀 Featured Projects
+
+⚖️ WakeelHub
+🔧 Project 2
+🌐 Project 3
+
+
+## 📊 GitHub Activity
+
+[Statistics]
+
+
+## 🤝 Connect With Me
+
+LinkedIn • Portfolio • Email
